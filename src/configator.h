@@ -3,7 +3,7 @@
 
 #include <stdint.h>
 
-#define CONFIGATOR_MAX_LINE 80
+#define CONFIGATOR_MAX_LINE 4096
 
 #if 0
 #define CONFIGATOR_DEBUG
